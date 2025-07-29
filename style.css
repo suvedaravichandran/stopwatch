@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #4b0082, #1e90ff);
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.container {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+#display {
+    font-size: 48px;
+    margin: 20px 0;
+}
+.buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+#laps {
+    list-style: none;
+    padding: 0;
+}
